@@ -1,12 +1,25 @@
+
+# In VScode i can use command
+# Multiple lines of comment 
+# why commment 
+# explain what i did or what changed in code
+# - psuedo code -help  create the logic requiered for a piece of code 
+
+
+
 # TODO Create Variables
-#   - Create the following variables
+#   - Create the following variables   ---> STRING
 #   - my_first_name
+my_first_name = 'Efrain' # lossely typed  'data type'
 #       -set this equal to your first name
 #   - my_last_name
+my_last_name = 'ignacio' 
 #       -set this equal to your last name
 #   - my_year_of_birth
+my_year_of_birth = 1998 # this is a inteher data typpe
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
+current_year 2024
 #       -set this equal to 2020
 
 
