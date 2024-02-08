@@ -1,9 +1,9 @@
-
-# In VScode i can use command
+# Comment - Code that is not executed 
+# In VScode i can use command /
 # Multiple lines of comment 
 # why commment 
-# explain what i did or what changed in code
-# - psuedo code -help  create the logic requiered for a piece of code 
+#  - explain what i did or what changed in code
+#  - psuedo code -help  create the logic requiered for a piece of code 
 
 
 
